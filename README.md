@@ -1,8 +1,4 @@
 # Image-Sorting-using-Earth-Mover-s-Distance-EMD
-This project includes Python code that sorts a set of images based on their EMD distances.
-
-
-## Project: Image Sorting using Earth Mover's Distance (EMD)
 
 This project includes Python code that sorts a set of images based on their EMD distances.
 
@@ -31,3 +27,5 @@ The provided code performs the following tasks:
 2. Normalizes the distribution of pixels in every image.
 3. Calculates the EMD distance between pairs of images using NetworkX to solve the minimum cost flow problem.
 4. Sorts the images based on their EMD distances.
+
+You can find the full code for this project in the repository under the `emd_image_sorting` folder.
